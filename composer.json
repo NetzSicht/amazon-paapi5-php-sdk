@@ -25,6 +25,6 @@
     },
     "autoload": {
         "psr-4": { "Amazon\\ProductAdvertisingAPI\\v1\\" : "src/" }
-    },
+    }
   }
   
